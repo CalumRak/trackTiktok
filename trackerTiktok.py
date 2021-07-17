@@ -1,5 +1,4 @@
 import os,json
-import instaloader
 import pymongo
 import cryptocode 
 
